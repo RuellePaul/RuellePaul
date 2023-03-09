@@ -9,14 +9,10 @@
 
 I'm **[Paul Ruelle]**, a **full stack developer** living in **Bordeaux**&nbsp;🍷
 
-I created **[melodymaster.io]**, a music blind test multiplayer game based on Spotify 🎶 
+I created **[melodymaster.io]()**, a music blind test multiplayer game based on Spotify 🎶 
 
-I also created **[datatensor.io]**, a website to facilitate the preparation of datasets for
+I also created **[datatensor.io]()**, a website to facilitate the preparation of datasets for
 _object detection on images_ 🤯
-
-<a href="https://github.com/RuellePaul/datatensor" style="cursor: pointer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RuellePaul&repo=datatensor&theme=github_dark" />
-</a>
 
 ## Languages and Tools:
 

@@ -4,7 +4,7 @@
 </h3>
 
 <h5 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Creator%20of%20datatensor.io;Always%20learning%20new%20stuff;5%2b%20years%20of%20experience&font=Fira%20Code&center=true&width=440&height=45&color=3399ff&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Creator%20of%20melodymaster.io;Always%20learning%20new%20stuff;5%2b%20years%20of%20experience&font=Fira%20Code&center=true&width=440&height=45&color=3399ff&vCenter=true&size=22"></a>
 </h3>
 
 I'm **[Paul Ruelle]**, a **full stack developer** living in **Bordeaux**&nbsp;🍷

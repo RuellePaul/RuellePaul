@@ -11,8 +11,7 @@ I'm **[Paul Ruelle]**, a **full stack developer** living in **Bordeaux**&nbsp;�
 
 I created **[melodymaster.io](https://melodymaster.io)**, a music blind test multiplayer game based on Spotify 🎶 
 
-I also created **[datatensor.io](https://github.com/RuellePaul/datatensor)**, a website to facilitate the preparation of datasets for
-_object detection on images_ 🤯
+I also created **[logicmaster.io](https://logicmaster.io)**, a clone of Island of Insight puzzles 🧩
 
 ## Languages and Tools:
 

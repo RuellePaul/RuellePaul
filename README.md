@@ -9,7 +9,7 @@
 
 I'm **[Paul Ruelle]**, a **full stack developer** living in **Bordeaux**&nbsp;🍷
 
-I created **[melodymaster.io](https://melodymaster.io)**, a music blind test multiplayer game based on Spotify 🎶 
+I created **[melodymaster.io](https://melodymaster.io)**, a music blind test multiplayer game 🎶 
 
 I also created **[logicmaster.io](https://logicmaster.io)**, a clone of Island of Insight puzzles 🧩
 
